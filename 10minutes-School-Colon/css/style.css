@@ -1,0 +1,230 @@
+
+html, body {
+    font-family: 'AdorshoLipi', Arial, sans-serif !important;
+  
+}
+
+.logo-section{
+
+   height: 30px;
+   margin-left: 82px;
+  
+}
+
+.BTNHOV:hover {
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 10px;
+  
+}
+
+.dropbtn {
+   background-color: white;
+    color: black;
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    margin-left: 311px;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    /* background-color: #f9f9f9; */
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* .dropdown-content a:hover {background-color: #f1f1f1} */
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropbtn:hover {
+    background-color: tomato;
+   
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+
+  .loginBtn {
+      background-color: black;
+      color: white;
+      border-radius: 5px;
+     margin-left: 10px;
+  }
+
+  .loginBtn:hover {
+
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+
+  }
+
+  .BannerSection {
+      background-color: black;
+  }
+
+  .imgSize{
+
+    width: 500px;
+    height: 500px;
+
+
+  }
+
+  .BannerSectionText {
+margin-left: 90px;
+margin-top: 190px;
+
+
+  }
+
+  .dpbtn{
+    margin-left: 300px !important;
+  }
+
+ .dropdown{
+     margin-left: 10px;
+ }
+ 
+
+
+.routineBTN {
+
+    padding-left: 56px !important;
+  
+    padding-right: 49px !important;
+    background-color: white !important;
+    color: black !important;
+    border: 0px !important;
+}
+
+.rtBTN{ 
+    background-color: #2B2533; 
+    border-radius: 5px; 
+    margin-right: 104px;
+}
+
+.btn-sma {
+
+   
+    /* background-color: #27895d;
+  text-decoration: none;
+font-size: 20px;
+color: white; */
+
+padding-left: 52px;
+    font-size: 20px;
+    line-height: 16px;
+    font-weight: 500;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #40a767;
+    cursor: pointer;
+    padding-right: 52px;
+    padding-bottom: 7px;
+    text-align: center;
+    /* padding-top: 0px; */
+    text-decoration: none;
+    /* margin-bottom: 46px; */
+    text-align: center !important;
+
+}
+
+.btn-sma:hover{ 
+
+
+    color: white;
+}
+
+
+.p-text{
+
+color: #525252;
+font-size: 20px;
+
+}
+
+.fetr-Card{
+
+    background-color: #F7F8FA;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+
+.clss{
+
+    background-color: white;
+    height: 70px;
+    width: 300px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 36px;
+    padding-right: 30px;
+    margin-right: 10px;
+
+}
+
+.class-text{
+
+    color: black;
+text-decoration: none;
+}
+
+img.fetr-icon {
+    width: 36px;
+}
+
+
+.product-card{
+border: 0!important;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 30px;
+
+}
+
+
+.product-img-size {
+
+    width: 71px !important;
+}
+
+
+.study-Level{
+
+background-color: #F7F8FA;
+
+}
+
+.study-level-header{
+
+
+    margin-top: 30px;
+}
